@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "*.embeddedhtml": "html",
+        "gpio.h": "c",
+        "key.h": "c",
+        "includes.h": "c",
+        "sensor_cfg.h": "c",
+        "ble.h": "c",
+        "led_sensor.h": "c",
+        "sensor_main.h": "c",
+        "power_interface.h": "c",
+        "timer.h": "c"
+    }
+}
