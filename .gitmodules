@@ -1,3 +1,6 @@
 [submodule "Bluetooth_Extension_Module/Drivers"]
 	path = Bluetooth_Extension_Module/Drivers
 	url = https://github.com/OULIHONG1999/hpy_ble_moudle.git
+[submodule "Bluetooth_Sensor/Drivers"]
+	path = Bluetooth_Sensor/Drivers
+	url = https://github.com/OULIHONG1999/hpy_ble_moudle_sensor.git
